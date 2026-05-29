@@ -145,9 +145,9 @@ const GallerySection = () => {
     { url: publicImages[0] ?? '1.jpeg', caption: "Sweetest smile", rotation: -3 },
     { url: publicImages[1] ?? publicImages[0] ?? '1.jpeg', caption: "Golden hour", rotation: 4 },
     { url: "beautiful-night.png", caption: "Beautiful night", rotation: -2 },
-    { url: publicImages[3] ?? publicImages[0] ?? '1.jpeg', caption: "Magic", rotation: 5 },
+    { url: "1779985403958.png", caption: "Magic", rotation: 5 },
     { url: publicImages[4] ?? publicImages[0] ?? '1.jpeg', caption: "Favorite sunrise", rotation: -4 },
-    { url: '/forever-yours.jpg', caption: "Forever yours", rotation: 2 }
+    { url: "mana.png", caption: "Forever yours", rotation: 2 }
   ];
 
   return (
